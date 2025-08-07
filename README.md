@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hola, soy Luciano Flores 👋
 
-<!--
-**luciano-fg/luciano-fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante avanzado de la Tecnicatura Superior en Programación en la Universidad Tecnológica Nacional (UTN) y con experiencia práctica en desarrollo web full-stack y aplicaciones de escritorio, utilizando tecnologías como Git, GitHub, C#, .NET, HTML, CSS, Tailwind CSS, JavaScript, React, Node.js y Express, complementado con el manejo de bases de datos como MySQL y SQL Server.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lo que hago
+
+- 🔭 Actualmente estoy desarrollando proyectos de forma autonoma y buscando experiencias laborales relacionadas al mundo del desarrollo web.
+- 🌱 Estoy aprendiendo el framework 'Astro'.
+- 👯 Estoy buscando colaborar en proyectos de desarrollo web full stack que esten relacionados con las tecnologias que manejo.
+- 📫 Puedes contactarme en [lucianofloresgigena@gmail.com].
+
+---
+
+### Habilidades clave
+
+- **Lenguajes:** C#, Javascript, NodeJs
+- **Frameworks & Librerías:** .NET, React, Express, Tailwind CSS
+- **Bases de Datos:** MySQL, SQL Server
+- **Herramientas & Tecnologías:** Git, GitHub, Figma, Notion, Trello, CorelDraw.
+
+---

@@ -9,7 +9,7 @@ Soy un estudiante avanzado de la Tecnicatura Superior en Programación en la Uni
 - 🔭 Actualmente estoy desarrollando proyectos de forma autonoma y buscando experiencias laborales relacionadas al mundo del desarrollo web.
 - 🌱 Estoy aprendiendo el framework 'Astro'.
 - 👯 Estoy buscando colaborar en proyectos de desarrollo web full stack que esten relacionados con las tecnologias que manejo.
-- 📫 Puedes contactarme en [lucianofloresgigena@gmail.com].
+- 📫 Puedes contactarme en lucianofloresgigena@gmail.com.
 
 ---
 
